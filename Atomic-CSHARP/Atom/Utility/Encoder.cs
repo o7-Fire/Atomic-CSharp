@@ -4,7 +4,7 @@ namespace Atomic_CSHARP.Atom.Utility
 {
     public class Encoder
     {
-        public static readonly HashAlgorithm 
+        public static readonly HashAlgorithm
             sha256 = System.Security.Cryptography.SHA256.Create(),
             sha1 = System.Security.Cryptography.SHA1.Create(),
             md5 = System.Security.Cryptography.MD5.Create();
