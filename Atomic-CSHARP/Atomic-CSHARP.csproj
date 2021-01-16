@@ -4,6 +4,11 @@
         <TargetFramework>netstandard2.0</TargetFramework>
         <RootNamespace>Atomic_CSHARP</RootNamespace>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <Version>0.4.0</Version>
+        <AssemblyVersion>0.2.0</AssemblyVersion>
+        <Company>o7Fire</Company>
+        <Authors>Itzbenz</Authors>
+        <Product>Atomic</Product>
     </PropertyGroup>
 
     <ItemGroup>
