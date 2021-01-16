@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using System.Text;
+using Atomic_CSHARP.Atom.Encoder;
 
 namespace Atomic_CSHARP.Atom.Utility
 {

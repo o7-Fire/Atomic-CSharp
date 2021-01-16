@@ -1,11 +1,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Atomic_CSHARP.Atom.Utility
+namespace Atomic_CSHARP.Atom.Encoder
 {
     public class Random : System.Random
     {
-        private static Random _random = new Random();
+        private static readonly Random _random = new Random();
 
         public static int getRandomColor()
         {
